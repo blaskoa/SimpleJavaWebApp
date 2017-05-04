@@ -27,5 +27,7 @@
     <p>To invoke the counting servlet click <a href="CounterServlet">here</a></p>
     <h2>Example #4 - Show total number of visits</h2>
     <p>To invoke the servlet click <a href="CounterViewServlet">here</a></p>
+    <h2>Example #5 - Products servlet</h2>
+    <p>To invoke the servlet click <a href="ProductsServlet">here</a></p>
   </body>
 </html>
