@@ -52,7 +52,7 @@
 
                     <td class="col-md-2 text-center">
                         <div id="id${product.identificator}" class="input-group">
-                            <input class="form-control" type="text" style="text-align: center;"/>
+                            <input class="form-control" type="number" style="text-align: center;"/>
                         </div>
                     </td>
                 </tr>
